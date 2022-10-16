@@ -1,4 +1,4 @@
-print ("olá mundo")
+print ("olá mundo") #referente ao curso de 5hs
 print("apenas um")
 print("teste")
 print("gol"*3)
